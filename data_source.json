@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "category": "Electronics",
+        "amount": 1200.50,
+        "date": "2023-01-01"
+    },
+    {
+        "id": 2,
+        "category": "Grocery",
+        "amount": "50.00",
+        "date": "2023-01-02"
+    },
+    {
+        "id": 3,
+        "category": "Electronics",
+        "amount": null,
+        "date": "2023-01-03"
+    },
+    {
+        "id": 4,
+        "category": "Furniture",
+        "amount": 300,
+        "date": "2023-01-04"
+    },
+    {
+        "id": 5,
+        "category": "Grocery",
+        "amount": "invalid",
+        "date": "2023-01-05"
+    }
+]
