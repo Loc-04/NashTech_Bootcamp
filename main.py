@@ -1,1 +1,1 @@
-print("Hello NashTech, I am ready.")
+#nothing much here, redundant
