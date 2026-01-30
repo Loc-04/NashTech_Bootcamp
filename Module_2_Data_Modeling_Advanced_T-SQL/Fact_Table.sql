@@ -15,7 +15,7 @@ CREATE TABLE Dim_Customer (
     Customer_Source_ID VARCHAR(50) NOT NULL,    -- Business Key (Map với Source ERP)
     Customer_Name NVARCHAR(255) NOT NULL,
     City NVARCHAR(100),
-    Phone VARCHAR(20)
+    Phone VARCHAR(50)
 );
 
 -- 3. Dim_Product
